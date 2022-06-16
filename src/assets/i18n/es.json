@@ -26,6 +26,25 @@
   },
   "experience": [
     {
+      "jobPosition": "Desarrollador Frontend",
+      "company": "Teleperformance",
+      "desc": [
+        "Actualmente trabajo en el desarrollo frontend de varias aplicaciones internas de la compañia utilizando como stack tecnológico: Javascript, Typescript, React, Angular; sobre una arquitectura de servicios REST creados con NodeJs y MS SQL."
+      ],
+      "start": "Julio 2021",
+      "end": "Actualmente"
+    },
+    {
+      "jobPosition": "Desarrollador de Software",
+      "company": "Davinci Technologies",
+      "desc": [
+        "Trabajé en el mantenimiento de un sistema de vinculaciones para compra de viviendas de Fiduciaria de Bogotá, en donde tuve oportunidad de trabajar con Docusign API, validaciones de historial creditício, validaciones Sarlaft y con tecnologias de desarrollo como VueJS y NodeJs, todo esto bajo un arquitectura en la nube con GCP.",
+        "Desarrollé un sistema de gestión de solicitudes organizativas para Frontera Energy, en este sistema se utilizaron tecnologias basadas en Javascript, como App Script y el uso de APIs para la manipulación de los servicios de GSuite."
+      ],
+      "start": "Octubre 2020",
+      "end": "Mayo 2021"
+    },
+    {
       "jobPosition": "Desarrollador de Software",
       "company": "NovaIP",
       "desc": [
@@ -34,16 +53,6 @@
       ],
       "start": "Diciembre 2019",
       "end": "Marzo 2020"
-    },
-    {
-      "jobPosition": "Desarrollador Frontend",
-      "company": "Squareball Studios",
-      "desc": [
-        "Trabajé en el desarrollo del frontend de un sistema de gestión de multimedia, utilizando Angular bajo una arquitectura basada en módulos y componentes dinámicos y consumiendo REST APIs basadas en C#.",
-        "Desarrollé y diseñé interfaces web a partir del prototipado creado en Figma."
-      ],
-      "start": "Mayo 2019",
-      "end": "Julio 2019"
     },
     {
       "jobPosition": "Desarrollador de Software",

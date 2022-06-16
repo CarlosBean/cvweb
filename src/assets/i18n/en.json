@@ -22,9 +22,28 @@
     "workflow": "Workflow"
   },
   "about": {
-    "text": "I'm passionate about front-end technologies, I have knowledge in the area of ​​web design, web development and agile methodologies. I have had the opportunity to work in monolithic applications applying technologies such as Codeigniter and Angular under a REST architecture, always oriented to good practices and clean and maintainable code."
+    "text": "I'm passionate about front-end technologies, I have knowledge in the area of ​​web design, web development and agile methodologies. I have had the opportunity to work in monolithic applications applying technologies such as Angular and React under a REST architecture, always oriented to good practices and clean and maintainable code."
   },
   "experience": [
+    {
+      "jobPosition": "Frontend Developer",
+      "company": "Teleperformance",
+      "desc": [
+        "Currently I work in the frontend development of several internal applications of the company using as technological stack: Javascript, Typescript, React, Angular; on an architecture of REST services created with NodeJs and MS SQL."
+      ],
+      "start": "July 2021",
+      "end": "Current"
+    },
+    {
+      "jobPosition": "Software Developer",
+      "company": "Davinci Technologies",
+      "desc": [
+        "I worked in the maintenance of a system for home purchase of Fiduciaria de Bogota, where I had the opportunity to work with Docusign API, credit history validations, Sarlaft validations and development technologies such as VueJS and NodeJs, all this under a cloud architecture with GCP.",
+        "I developed a request management system for Frontera Energy, in this system Javascript-based technologies were used, such as App Script and the use of APIs to manipulate GSuite services."
+      ],
+      "start": "October 2020",
+      "end": "May 2021"
+    },
     {
       "jobPosition": "Software Developer",
       "company": "NovaIP",
@@ -34,16 +53,6 @@
       ],
       "start": "December 2019",
       "end": "March 2020"
-    },
-    {
-      "jobPosition": "Frontend Developer",
-      "company": "Squareball Studios",
-      "desc": [
-        "I worked on the frontend development of a multimedia management system, using Angular under an architecture based on modules and dynamic components and consuming REST APIs based on C #.",
-        "I developed and designed web interfaces from the prototype created in Figma."
-      ],
-      "start": "May 2019",
-      "end": "July 2019"
     },
     {
       "jobPosition": "Software Developer",
@@ -77,7 +86,7 @@
     "april": "April",
     "may": "May",
     "june": "June",
-    "july": "Jule",
+    "july": "July",
     "august": "August",
     "september": "September",
     "october": "October",
