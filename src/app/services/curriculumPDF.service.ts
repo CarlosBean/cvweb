@@ -22,7 +22,7 @@ export class CurriculumPDFService {
     styles: any;
     defaultStyle: any;
 
-    personalWebURL = 'https://carlos-benavides.dev/';
+    personalWebURL = 'https://carlosbenavides.dev/';
 
     constructor(public translate: TranslateService) {
         this.styles = {
