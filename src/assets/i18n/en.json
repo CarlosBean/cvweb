@@ -22,14 +22,14 @@
     "workflow": "Workflow"
   },
   "about": {
-    "text": "I'm passionate about front-end technologies, I have knowledge in the area of ​​web design, web development and agile methodologies. I have had the opportunity to work in monolithic applications applying technologies such as Angular and React under a REST architecture, always oriented to good practices and clean and maintainable code."
+    "text": "I'm passionate about front-end technologies, I have knowledge in the area of ​​web design, web development and agile methodologies. I have had the opportunity to work in monolithic applications applying technologies such as React and Angular under a REST API architecture, always oriented to good practices and clean and maintainable code."
   },
   "experience": [
     {
       "jobPosition": "Frontend Developer",
       "company": "Teleperformance",
       "desc": [
-        "Currently I work in the frontend development of several internal applications of the company using as technological stack: Javascript, Typescript, React, Angular; on an architecture of REST services created with NodeJs and MS SQL."
+        "Currently I work in the frontend development of several internal applications of the company using as technological stack: Javascript, Typescript, React, Angular; on an architecture of REST API services created with NodeJs and MS SQL."
       ],
       "start": "July 2021",
       "end": "Current"
@@ -38,7 +38,7 @@
       "jobPosition": "Software Developer",
       "company": "Davinci Technologies",
       "desc": [
-        "I worked in the maintenance of a system for home purchase of Fiduciaria de Bogota, where I had the opportunity to work with Docusign API, credit history validations, Sarlaft validations and development technologies such as VueJS and NodeJs, all this under a cloud architecture with GCP.",
+        "I worked in the maintenance of a system for home purchase of Fiduciaria de Bogota, where I had the opportunity to work with Docusign API, credit history validations, Sarlaft validations and development technologies such as React, VueJS and NodeJs, all this under a cloud architecture with GCP and REST API.",
         "I developed a request management system for Frontera Energy, in this system Javascript-based technologies were used, such as App Script and the use of APIs to manipulate GSuite services."
       ],
       "start": "October 2020",
@@ -48,8 +48,8 @@
       "jobPosition": "Software Developer",
       "company": "NovaIP",
       "desc": [
-        "I worked on construction a warranty tracking system for travel products, using a multi-tenant architecture with PostgreSQL, Java-based REST APIs and Angular for frontend development.",
-        "I worked on the maintenance and bug resolution of a VOIP call management and ticket tracking platform."
+        "I worked on construction a warranty tracking system for travel products, using a multi-tenant architecture with PostgreSQL, Java-based REST API and Angular for frontend development.",
+        "I worked on the maintenance and bug resolution of a VOIP call management and ticket tracking platform with technologies as Java and React."
       ],
       "start": "December 2019",
       "end": "March 2020"
@@ -58,9 +58,9 @@
       "jobPosition": "Software Developer",
       "company": "Créalo Digital",
       "desc": [
-        "I worked in the construction of a monetary credit management system using REST architecture with PHP and consuming each service from a front-end developed in Angular.",
+        "I worked in the construction of a monetary credit management system using REST API architecture with PHP and consuming each service from a front-end developed in React.",
         "I developed a mobile application to consult monetary credits with the Nativescript framework, implementing the communication to a REST API.",
-        "I designed static web pages using HTML5, CSS and Bootstrap 4 framework."
+        "I designed static web pages using HTML5, CSS and Bootstrap 4."
       ],
       "start": "May 2018",
       "end": "May 2019"

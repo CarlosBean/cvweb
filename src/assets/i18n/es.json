@@ -22,14 +22,14 @@
     "workflow": "Flujo de Trabajo"
   },
   "about": {
-    "text": "Soy un apasionado por las tecnologias front-end, poseo conocimiento en el área del diseño web, desarrollo web y metodologias ágiles. He tenido la oportunidad trabajar en aplicaciones monolíticas aplicando tecnologías como Angular y React bajo una arquitectura REST, siempre orientado a las buenas practicas y el código limpio y mantenible."
+    "text": "Soy un apasionado por las tecnologias front-end, poseo conocimiento en el área del diseño web, desarrollo web y metodologias ágiles. He tenido la oportunidad trabajar en aplicaciones monolíticas aplicando tecnologías como React y Angular bajo una arquitectura API REST, siempre orientado a las buenas practicas y el código limpio y mantenible."
   },
   "experience": [
     {
       "jobPosition": "Desarrollador Frontend",
       "company": "Teleperformance",
       "desc": [
-        "Actualmente trabajo en el desarrollo frontend de varias aplicaciones internas de la compañia utilizando como stack tecnológico: Javascript, Typescript, React, Angular; sobre una arquitectura de servicios REST creados con NodeJs y MS SQL."
+        "Actualmente trabajo en el desarrollo frontend de varias aplicaciones internas de la compañia utilizando como stack tecnológico: Javascript, Typescript, React, Angular; sobre una arquitectura de servicios API REST creados con NodeJs y MS SQL."
       ],
       "start": "Julio 2021",
       "end": "Actualmente"
@@ -38,7 +38,7 @@
       "jobPosition": "Desarrollador de Software",
       "company": "Davinci Technologies",
       "desc": [
-        "Trabajé en el mantenimiento de un sistema de vinculaciones para compra de viviendas de Fiduciaria de Bogotá, en donde tuve oportunidad de trabajar con Docusign API, validaciones de historial creditício, validaciones Sarlaft y con tecnologias de desarrollo como VueJS y NodeJs, todo esto bajo un arquitectura en la nube con GCP.",
+        "Trabajé en el mantenimiento de un sistema de vinculaciones para compra de viviendas de Fiduciaria de Bogotá, en donde tuve oportunidad de trabajar con Docusign API, validaciones de historial creditício, validaciones Sarlaft y con tecnologias de desarrollo como React, VueJS y NodeJs, todo esto bajo un arquitectura en la nube con GCP y API REST.",
         "Desarrollé un sistema de gestión de solicitudes organizativas para Frontera Energy, en este sistema se utilizaron tecnologias basadas en Javascript, como App Script y el uso de APIs para la manipulación de los servicios de GSuite."
       ],
       "start": "Octubre 2020",
@@ -48,8 +48,8 @@
       "jobPosition": "Desarrollador de Software",
       "company": "NovaIP",
       "desc": [
-        "Trabajé en la construcción de un sistema de seguimiento de fallas y garantias para productos de viaje, utilizando una arquitectura multi-tenant con PostgreSQL, REST APIs basadas en Java y Angular para el desarrollo del frontend.",
-        "Trabajé en el mantenimiento y resolución de bugs de una plataforma de seguimiento de tickets y gestión de llamadas VOIP."
+        "Trabajé en la construcción de un sistema de seguimiento de fallas y garantias para productos de viaje, utilizando una arquitectura multi-tenant con PostgreSQL,API REST basadas en Java y Angular para el desarrollo del frontend.",
+        "Trabajé en el mantenimiento y resolución de bugs de una plataforma de seguimiento de tickets y gestión de llamadas VOIP, con tecnologias como Java y React."
       ],
       "start": "Diciembre 2019",
       "end": "Marzo 2020"
@@ -58,9 +58,9 @@
       "jobPosition": "Desarrollador de Software",
       "company": "Créalo Digital",
       "desc": [
-        "Trabajé en la construcción de un sistema de gestión de creditos monetarios utilizando arquitectura REST con PHP y consumiendo cada servicio desde un front desarrollado en Angular.",
+        "Trabajé en la construcción de un sistema de gestión de creditos monetarios utilizando arquitectura REST con PHP y consumiendo cada servicio desde un front desarrollado en React.",
         "Desarrollé una aplicación movil para consulta de creditos monetarios con el framework Nativescript, implementando la comunicación a un API REST.",
-        "Diseñé paginas web estáticas utilizando HTML5, CSS y framework Bootstrap 4."
+        "Diseñé paginas web estáticas utilizando HTML5, CSS y Bootstrap 4."
       ],
       "start": "Mayo 2018",
       "end": "Mayo 2019"
