@@ -58,7 +58,7 @@
       "jobPosition": "Software Developer",
       "company": "Créalo Digital",
       "desc": [
-        "I worked in the construction of a monetary credit management system using REST API architecture with PHP and consuming each service from a front-end developed in React.",
+        "I worked in the construction of a monetary credit management system using REST API architecture with PHP and consuming each service from a front-end developed in Angular.",
         "I developed a mobile application to consult monetary credits with the Nativescript framework, implementing the communication to a REST API.",
         "I designed static web pages using HTML5, CSS and Bootstrap 4."
       ],

@@ -58,7 +58,7 @@
       "jobPosition": "Desarrollador de Software",
       "company": "Créalo Digital",
       "desc": [
-        "Trabajé en la construcción de un sistema de gestión de creditos monetarios utilizando arquitectura REST con PHP y consumiendo cada servicio desde un front desarrollado en React.",
+        "Trabajé en la construcción de un sistema de gestión de creditos monetarios utilizando arquitectura REST con PHP y consumiendo cada servicio desde un front desarrollado en Angular.",
         "Desarrollé una aplicación movil para consulta de creditos monetarios con el framework Nativescript, implementando la comunicación a un API REST.",
         "Diseñé paginas web estáticas utilizando HTML5, CSS y Bootstrap 4."
       ],
